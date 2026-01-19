@@ -6,3 +6,4 @@ VC动画
 
 ## 效果
 
+![GitHub GIF](./preview.GIF)
