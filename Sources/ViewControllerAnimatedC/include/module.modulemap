@@ -1,0 +1,4 @@
+module ViewControllerAnimatedC {
+    umbrella "."
+    export *
+}
